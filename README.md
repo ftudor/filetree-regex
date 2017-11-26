@@ -92,8 +92,3 @@ What we are not looking for in this exercise (i.e. don’t spend too much time):
 • Fancy output of messages
 • Print out Usage/Help for command line
 
-Submission
-• When finished, please zip up your code in the directory structure of the project and send it in as a
-zip file. Please make sure the zip file includes all your files
-• It is ok not to finish all the functionalities, but please keep it compile-able and runnable for your
-submission
